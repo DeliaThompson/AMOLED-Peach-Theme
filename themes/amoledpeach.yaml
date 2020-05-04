@@ -17,7 +17,7 @@ AMOLED Peach:
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
   sidebar-text-color: '#FF9A6E'
-  sidebar-background-color: "#1f1f1f"
+  sidebar-background-color: "#262626"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: "#FFA882"
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
@@ -43,7 +43,7 @@ AMOLED Peach:
   # Cards
   ha-card-border-radius: "15px"
   paper-card-background-color: "#000000"
-  paper-listbox-background-color: "#1f1f1f"
+  paper-listbox-background-color: "#262626"
   # Switches
   switch-checked-button-color: "#FF9A6E"
   switch-checked-track-color: "#FFA882"
