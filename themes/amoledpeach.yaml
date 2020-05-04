@@ -16,10 +16,10 @@ AMOLED Peach:
   disabled-text-color: "#cf4217"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
-  sidebar-text-color: '#FF9A6E'
+  sidebar-text-color: '##ff7a40'
   sidebar-background-color: "#262626"
   sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: "#FFA882"
+  sidebar-selected-icon-color: "#ff9566"
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
   # States and Badges
   state-icon-color: "#FF9A6E"
