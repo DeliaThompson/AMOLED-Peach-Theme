@@ -16,14 +16,14 @@ AMOLED Peach:
   disabled-text-color: "#cf4217"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
-  sidebar-text-color: '##ff7a40'
-  sidebar-background-color: "#262626"
+  sidebar-text-color: '#ff7a40'
+  sidebar-background-color: "#000000"
   sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: "#ff9566"
+  sidebar-selected-icon-color: "#FFA882"
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
   # States and Badges
-  state-icon-color: "#ff7a40"
-  state-icon-active-color: "#FFA882"
+  state-icon-color: "#FFA882"
+  state-icon-active-color: "#ff7a40"
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
   paper-slider-knob-color: "#ff7a40"
@@ -43,12 +43,12 @@ AMOLED Peach:
   # Cards
   ha-card-border-radius: "15px"
   paper-card-background-color: "#000000"
-  paper-listbox-background-color: "#262626"
+  paper-listbox-background-color: "#000000"
   # Switches
-  switch-checked-button-color: "#FF9A6E"
-  switch-checked-track-color: "#FFA882"
-  switch-unchecked-button-color: "#FFCBA2"
-  switch-unchecked-track-color: "#FFCBA2"
+  switch-checked-button-color: "#ff7a40"
+  switch-checked-track-color: "#ff7a40"
+  switch-unchecked-button-color: "#ff9566"
+  switch-unchecked-track-color: "#ff9566"
   # Toggles
   paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
   paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
