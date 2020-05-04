@@ -2,15 +2,15 @@
 AMOLED Peach:
   # Header:
   app-header-background-color: "#000000"
-  app-header-text-color: "#FF9A6E"
+  app-header-text-color: "#ff7a40"
   # Main Interface Colors
-  primary-color: "#FF9A6E"
+  primary-color: "#ff7a40"
   light-primary-color: var(--primary-color)
   primary-background-color: "#000000"
   secondary-background-color: var(--primary-background-color)
   divider-color: var(--primary-background-color)
   # Text
-  primary-text-color: "#FF9A6E"
+  primary-text-color: "#ff7a40"
   secondary-text-color: "#FFA882"
   text-primary-color: "#FFFFFF"
   disabled-text-color: "#cf4217"
@@ -22,18 +22,18 @@ AMOLED Peach:
   sidebar-selected-icon-color: "#ff9566"
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
   # States and Badges
-  state-icon-color: "#FF9A6E"
+  state-icon-color: "#ff7a40"
   state-icon-active-color: "#FFA882"
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
-  paper-slider-knob-color: "#FF9A6E"
+  paper-slider-knob-color: "#ff7a40"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
   paper-slider-active-color: var(--paper-slider-knob-color)
   paper-slider-secondary-color: var(--light-primary-color)
   # Labels
   label-badge-background-color: "#000000"
-  label-badge-text-color: "#FF9A6E"
+  label-badge-text-color: "#ff7a40"
   label-badge-red: "#e6713e"
   label-badge-green: "#b5de78"
   label-badge-blue: "#A4EAF0"

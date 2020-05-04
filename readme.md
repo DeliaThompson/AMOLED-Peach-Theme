@@ -33,9 +33,9 @@ frontend:
 5. Restart Home Assistant
 
 ### Manual installation
-1. In the Home assistant **themes** folder, create a file named `peach.yaml`
-2. In this GitHub repo, go into the **themes** folder, open the `peach.yaml` file and copy the content
-3. Paste the content in the `peach.yaml` file created under your Home Assistant themes folder
+1. In the Home assistant **themes** folder, create a file named `amoledpeach.yaml`
+2. In this GitHub repo, go into the **themes** folder, open the `amoledpeach.yaml` file and copy the content
+3. Paste the content in the `amoledpeach.yaml` file created under your Home Assistant themes folder
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
