@@ -45,8 +45,8 @@ AMOLED Peach:
   paper-card-background-color: "#000000"
   paper-listbox-background-color: "#000000"
   # Switches
-  switch-checked-button-color: "#ff8d5c"
-  switch-checked-track-color: "#ff8d5c"
+  switch-checked-button-color: "#FFA882"
+  switch-checked-track-color: "#FFA882"
   switch-unchecked-button-color: "#ff9566"
   switch-unchecked-track-color: "#ff9566"
   # Toggles
